@@ -1,0 +1,23 @@
+<package>
+	<id>com.rizmee.Settingscircle</id>
+	<name>Setting scircle</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package. Requires iOS 12 +..</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

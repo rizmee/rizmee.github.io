@@ -1,7 +1,7 @@
 <package>
-	<id>com.rizmee.Settingscircle</id>
-	<name>Setting scircle</name>
-	<version>1.0.1</version>
+	<id>com.rizmee.applock</id>
+	<name>Applock</name>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12</miniOS>

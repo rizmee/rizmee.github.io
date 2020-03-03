@@ -39,3 +39,16 @@ Description: Settingscircle doesn’t come with any options to configure Firmwar
 Name: Setting Circles
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Settingscircle
+
+Package: com.rizmee.applock     
+Version: 1.3
+Section: Tweaks
+Maintainer: Rizmee <Rizmeee@gmail.com>
+Depends: firmware (>12), mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.rizmee.applock_1.3_iphoneos-arm.deb
+Size: 103408 
+MD5sum: e14def4a0c3505e514f625c575cdcb81
+Description: applock
+Author: Rizmee <Rizmeee@gmail.com>
+Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applock

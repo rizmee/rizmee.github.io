@@ -4,14 +4,16 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>12</maxiOS>
+			<miniOS>12</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>This package. Requires iOS 12 +..</description>
 	</descriptionlist>

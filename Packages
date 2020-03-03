@@ -49,6 +49,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.applocker_1.3.0_iphoneos-arm.deb
 Size: 103432
 MD5sum: 5b33d03de0b6837d4c2d371be499c072
-Description: Lock apps with a Faceid/Touchid 
+Description: Lock apps with a Faceid/Touchid
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Applocker

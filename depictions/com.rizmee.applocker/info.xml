@@ -1,6 +1,6 @@
 <package>
 	<id>com.rizmee.applocker</id>
-	<name>Applock</name>
+	<name>Applocker</name>
 	<version>1.3.0</version>
 	<compatibility>
 		<firmware>

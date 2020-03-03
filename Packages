@@ -27,14 +27,14 @@ Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.supermamon.oldpackage
 
 Package: com.rizmee.Settingscircle     
-Version: 1.0.0.1
+Version: 1.0.1
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.Settingscircle_1.0_iphoneos-arm.deb
-Size: 7180
-MD5sum: 4f8aaf1eae02c6a593b08a465dc9eb63
+Size: 7174
+MD5sum: 36cb519964957330fdb6b7c5db8e89f4
 Description: Settingscircle doesn’t come with any options to configure Firmware should be greater than 12
 Name: Setting Circles
 Author: Rizmee <Rizmeee@gmail.com>

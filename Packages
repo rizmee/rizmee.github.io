@@ -27,7 +27,7 @@ Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.supermamon.oldpackage
 
 Package: com.rizmee.Settingscircle     
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate

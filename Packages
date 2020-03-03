@@ -40,7 +40,7 @@ Name: Setting Circles
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Settingscircle
 
-Package: com.rizmee.applocker   
+Package: com.rizmee.Applocker   
 Version: 1.3.0
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
@@ -51,4 +51,4 @@ Size: 103432
 MD5sum: 5b33d03de0b6837d4c2d371be499c072
 Description: Lock apps with a Faceid/Touchid 
 Author: Rizmee <Rizmeee@gmail.com>
-Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applocker
+Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Applocker

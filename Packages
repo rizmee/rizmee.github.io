@@ -40,7 +40,7 @@ Name: Setting Circles
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Settingscircle
 
-Package: com.rizmee.applock     
+Package: applock     
 Version: 1.3
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>

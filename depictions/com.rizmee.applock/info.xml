@@ -12,10 +12,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-	    <package>mobilesubstrate</package>
+	    <package>mobilesubstrate, preferenceloader, com.spark.libsparkapplist</package>
 	</dependencies>
 	<descriptionlist>
-		<description>This package. Requires iOS 12 +..</description>
+		<description>AppLock is a ios Security solution that enables users to Lock apps with a faceid or touchid to keep them secured from unauthorized use</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

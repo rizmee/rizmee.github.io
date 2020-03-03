@@ -47,8 +47,8 @@ Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.applock_1.3.0_iphoneos-arm.deb
-Size: 103426
-MD5sum: 6ede8595fc692263892829c7603a7e79
+Size: 103424 
+MD5sum: 9cb12526c8b3866da26b564575b3916b
 Description: AppLock is a ios Applocker 
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applock

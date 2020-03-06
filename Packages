@@ -41,14 +41,14 @@ Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.Settingscircle
 
 Package: com.rizmee.applocker
-Version: 1.3.1
+Version: 1.3.0
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.applocker_1.3.0_iphoneos-arm.deb
-Size: 103432
-MD5sum: 5b33d03de0b6837d4c2d371be499c072
+Size: 103448 
+MD5sum: 40571dd87694449cea1325792c9c5afc
 Description: Lock apps with a Faceid/Touchid
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applocker

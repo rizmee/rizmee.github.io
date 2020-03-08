@@ -1,7 +1,7 @@
 <package>
-	<id>com.rizmee.applocker</id>
-	<name>Applocker</name>
-	<version>1.3.0</version>
+	<id>com.rizmee.adblocker</id>
+	<name>AdBlocker</name>
+	<version>0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12</miniOS>
@@ -12,10 +12,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-	    <package>mobilesubstrate, preferenceloader, com.spark.libsparkapplist</package>
+	    <package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>AppLock is a ios Security solution that enables users to Lock apps with a faceid or touchid to keep them secured from unauthorized use</description>
+		<description>adblocker that blocks advertising on apps and games</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

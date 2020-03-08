@@ -60,8 +60,8 @@ Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.applocker_1.3.0_iphoneos-arm.deb
-Size: 103448 
-MD5sum: 40571dd87694449cea1325792c9c5afc
-Description: ADs Blocker for Apps..beta
+Size: 9988
+MD5sum: 92e1f386dbefa0aaf451bb3b61ee885e
+Description: ADs Blocker for Apps etc.. beta
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.adblocker

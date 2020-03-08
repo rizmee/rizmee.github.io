@@ -47,8 +47,8 @@ Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.applocker_1.3.0_iphoneos-arm.deb
-Size: 103448 
-MD5sum: 40571dd87694449cea1325792c9c5afc
+Size: 115788
+MD5sum: 507dc0f7c4e016a09869ddb0730a2ffa
 Description: Protect your apps with Face ID/Touch ID
 Name: Applocker
 Author: Rizmee <Rizmeee@gmail.com>

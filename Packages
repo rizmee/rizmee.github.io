@@ -52,3 +52,16 @@ MD5sum: 40571dd87694449cea1325792c9c5afc
 Description: Protect your apps with Face ID/Touch ID
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applocker
+
+Package: com.rizmee.adblocker
+Version: 0.1 beta
+Section: Tweaks
+Maintainer: Rizmee <Rizmeee@gmail.com>
+Depends: firmware (>12), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.rizmee.applocker_1.3.0_iphoneos-arm.deb
+Size: 103448 
+MD5sum: 40571dd87694449cea1325792c9c5afc
+Description: ADs Blocker for Apps..beta
+Author: Rizmee <Rizmeee@gmail.com>
+Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.adblocker

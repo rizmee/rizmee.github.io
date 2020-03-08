@@ -1,0 +1,25 @@
+<package>
+	<id>com.rizmee.applocker</id>
+	<name>Applocker</name>
+	<version>1.3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate, preferenceloader, com.spark.libsparkapplist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>AppLock is a ios Security solution that enables users to Lock apps with a faceid or touchid to keep them secured from unauthorized use</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

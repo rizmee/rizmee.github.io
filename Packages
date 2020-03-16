@@ -55,7 +55,7 @@ Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.applocker
 
 Package: com.rizmee.adblocker
-Version: 1.0.0-1
+Version: 0.0.0-1
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate
@@ -69,7 +69,7 @@ Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.adblocker
 
 Package: com.rizmee.iapfree
-Version: 1.0.0-1
+Version: 0.0.0-1
 Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate, preferenceloader

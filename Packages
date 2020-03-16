@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.rizmee.Settingscircle_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.rizmee.settingscircle_1.0.1_iphoneos-arm.deb
 Size: 7184 
 MD5sum: bde2489b79a846efbac0cb2ea8f0a5ff
 Description: Settingscircle doesn’t come with any options to configure Firmware should be greater than 12

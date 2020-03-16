@@ -33,8 +33,8 @@ Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rizmee.settingcircles_1.0.0_iphoneos-arm.deb
-Size: 7184 
-MD5sum: bde2489b79a846efbac0cb2ea8f0a5ff
+Size: 7224
+MD5sum: d8ba2719c94980fbd910be561a965d68
 Description: Settingscircle doesn’t come with any options to configure Firmware should be greater than 12
 Name: Setting Circles don't install.!
 Author: Rizmee <Rizmeee@gmail.com>

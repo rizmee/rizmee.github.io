@@ -1,0 +1,25 @@
+<package>
+	<id>com.rizmee.adblocker</id>
+	<name>AdBlocker</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>adblocker that blocks advertising on apps and games</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,7 +1,7 @@
 <package>
-	<id>com.rizmee.adblocker</id>
-	<name>AdBlocker</name>
-	<version>0.1</version>
+	<id>com.rizmee.iapfree</id>
+	<name>iAPfree</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12</miniOS>
@@ -15,7 +15,7 @@
 	    <package>mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>adblocker that blocks advertising on apps and games</description>
+		<description>In-App purchases on iOS 12 - 13.X Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP! Configurable in settings</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

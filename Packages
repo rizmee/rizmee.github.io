@@ -78,6 +78,6 @@ Filename: ./debs/com.rizmee.iapfree_1.0_iphoneos-arm.deb
 Size: 69458
 MD5sum: 436e6e9b5b7dab101281ae3ba0a7bd1b
 Description: In-App purchases on iOS 12 - 13.X Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP! Configurable in settings
-Name: AdBlocker
+Name: iAPfree
 Author: Rizmee <Rizmeee@gmail.com>
 Depiction: https://rizmee.github.io/depictions/?p=com.rizmee.iapfree

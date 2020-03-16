@@ -73,9 +73,9 @@ Version: 1.0.0-1
 Maintainer: Rizmee <Rizmeee@gmail.com>
 Depends: firmware (>12), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debs/com.rizmee.iapfree_1.0.1_iphoneos-arm.deb
-Size: 69466
-MD5sum: 132b541dde7dc6e0b81633ab85502ac2
+Filename: ./debs/com.rizmee.iapfree_1.0.0-1_iphoneos-arm.deb
+Size: 69454
+MD5sum: 24488ed1184352bbfde4dff328526b0b
 Description: In-App purchases on iOS 12 - 13.X Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP! Configurable in settings
 Name: iAPfree
 Author: Rizmee <Rizmeee@gmail.com>
